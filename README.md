@@ -5,7 +5,7 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=Postgres)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 
 
 ### Technologies
